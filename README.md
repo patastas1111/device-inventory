@@ -1,4 +1,4 @@
-#Device Inventory
+# Device Inventory
 
 A basic inventory system for tracking routers and modems for inventory purposes.
 Features
@@ -8,7 +8,7 @@ Features
     Simple and easy-to-use interface
     Smart suggestions based on MAC address and serial number
 
-#Installation
+# Installation
 
     Clone the repository:
 
@@ -17,14 +17,14 @@ Features
 
     Follow the setup instructions (if applicable).
 
-#Usage
+# Usage
 
     Add, update, and remove devices
     Search and filter inventory records
     Get smart suggestions based on MAC address and serial number
     Export data if needed
 
-#Contributing
+# Contributing
 
 Feel free to contribute! Fork the repo, make changes, and submit a pull request.
 

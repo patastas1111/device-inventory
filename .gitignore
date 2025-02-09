@@ -1,0 +1,4 @@
+.env
+env_backend
+pattern.txt
+__pycache__
